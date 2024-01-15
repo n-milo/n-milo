@@ -1,4 +1,4 @@
-Hi! I'm Nikola Milosevic, a soon graduating electrical engineering student from Queen's University. I wrote this README to give a quick rundown of my technical skills and projects. For my full résumé, [visit here].
+Hi! I'm Nikola Milosevic, a soon graduating electrical engineering student from Queen's University. I wrote this README to give a quick rundown of my technical skills and projects. For my full résumé, [visit here](https://github.com/n-milo/n-milo/blob/master/resume.pdf).
 #### 🎛️ Systems programming: C, C++, and Rust
 - I like C++ and have written a [NES simulator](https://github.com/n-milo/nes) using SDL and [voxel game engine](https://github.com/n-milo/voxels) using OpenGL/GLFW
 #### 📟 Embedded programming: C, NIOS II Assembly, VHDL
